@@ -1,7 +1,10 @@
 *** Bug Tracking System ***
+
 This project is a simple command-line based Bug Tracking System that helps in managing software bugs and developer assignments.
 It allows users to add, assign, update, filter, and analyze bugs efficiently.
+
 *** Features *** 
+
 1)Display Bugs and Developers
 2)Add New Bugs
 3)Assign Bugs to Developers based on matching skills
